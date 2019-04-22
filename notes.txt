@@ -1,0 +1,12 @@
+Decide best library for moving equipment. Have a play with them in Codepen before choosing one.
+Thinking the touch gesture libraries aren't what I need. Look into canvas libraries. See list below first links
+Once I've decided on a library (as much as I can do at this stage) - draw up some quick SVGs and load in and start messing about with them to see hopw they might work
+
+Hammer.js
+https://zingchart.github.io/zingtouch/
+http://interactjs.io/
+https://shopify.github.io/draggable/examples/
+
+
+http://paperjs.org/examples/hit-testing/
+http://fabricjs.com/
